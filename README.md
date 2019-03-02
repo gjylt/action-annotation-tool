@@ -1,5 +1,6 @@
 # action-annotation-tool
-this is a python project which is used to make action  annotation.
+
+this is a python project which is used to make video action  annotation.
 
 ## Prerequisites
 
